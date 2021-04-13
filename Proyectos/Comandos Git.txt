@@ -1,0 +1,18 @@
+# log 
+  ver todos los commits
+
+# git checkout -- "archivo"
+  deshacer un cambio en un archivo antes de mandarlo al staged area
+
+# git reset HEAD "archivo"
+  devolver un archivo del staged area	
+
+# git log --oneline
+  muestra los commits que se han hecho
+
+# git log --oneline | cat
+  sirve para ver los commits en la consola
+
+# git reser "commit"
+  regresa a un commit
+
