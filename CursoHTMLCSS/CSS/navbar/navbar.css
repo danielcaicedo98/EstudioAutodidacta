@@ -1,0 +1,40 @@
+.nav_enlace{
+    display: inline-block;
+    background: salmon;
+    color: seashell;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav_enlace:hover{
+    background: blue;
+}
+nav{
+    background: rebeccapurple;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.nav_button{
+    background: salmon;
+    color: white;
+    padding: 10px 0;
+    border: 2px solid white;
+    display: none;
+}
+@media(max-width: 600px){
+    nav{
+        background: black;
+        flex-direction: column;
+    }
+    .nav_enlace{
+        margin: 10px 0;
+    }
+    .nav_button{
+        display: inline-block;
+    }
+
+    .desaparece{
+        display: none;
+    }
+}

@@ -16,3 +16,16 @@
 # git reser "commit"
   regresa a un commit
 
+# git remote add origin "link de repositorio"
+  inicia un repositorio en local
+
+# git diff "commit1" "commit2"
+  me muestra las diferencias entre un commit y otro
+
+# git diff HEAD~1 HEAD
+  me muestra las diferencias entre un commit y otro
+
+
+
+	
+		

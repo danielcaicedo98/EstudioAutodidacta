@@ -1,0 +1,105 @@
+
+/* .titulo_h2{
+    color: rgb(191, 191, 206);
+}
+#Elementos{
+    background: blue;
+}
+.color_es{
+    color: burlywood;
+}
+.color_es b span{
+    color:brown;
+} */
+/* h4 b{
+    color: brown;
+}
+h4 b span{
+    color: blue;
+} */
+/* h4 b:hover{
+    color: red;
+} */
+/* h1{
+    color: royalblue;
+}
+.color_es{
+    color: orange;
+}
+h1{
+    color:green !important;
+} */
+
+/* 
+.form__input--one{
+    color: honeydew;
+    background: green;
+}
+.form__input:first-child{
+    color: honeydew;
+    background: hotpink;
+} */
+/* .c_form__p-h2{
+    background: hotpink;
+} */
+/* .c_form{
+    font-size: 50px;
+}
+
+.c_form__h2{
+    font-size: 1em;
+} */
+/**{
+    padding: 0px;
+    margin: 0px;
+ }
+.c_form{
+    font-size: 25px;
+    background-color: orange ;
+    width: 50vw;
+    height: 50vh;
+     width: 50%; 
+} */
+ *{
+    font-family: 'Lobster', cursive;
+    font-weight:100;
+}
+.c_form{
+    font-size: 25px;;
+}
+.c_form__h2{
+    font-size: 2em;
+    color: orange;
+    /* font-family: 'Pangolin', cursive; */
+    /* line-height: 5;
+    font-weight: 140;
+    font-stretch: normal;
+    font-variant: small-caps; */
+
+} 
+
+/* h2{
+
+    display: inline-block;
+} */
+h2{
+    background-color: orangered;
+    display: inline-block;
+    /* padding-left: 100px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 25px; */
+    padding: 20px 30px;
+    border-radius: 2em;
+    margin: 20px 10px;
+    border: 3px outset rgb(104, 100, 100);
+    box-shadow: 2px 4px 10px 0 blue;
+    text-shadow: 2px 2px 7px white;
+    transform: rotate(-25deg);
+}
+
+
+
+h2:hover{
+    background-color: grey;
+}

@@ -1,0 +1,8 @@
+.flex-container {
+    display: block;
+}
+
+.flex-item {
+    background: #48f;
+    color:#fff;
+}

@@ -1,0 +1,16 @@
+# Interfaces Graficas Video 42
+from tkinter import *
+raiz=Tk()
+raiz.title("Ventana de pruebas")
+raiz.iconbitmap("descarga.ico")
+raiz.config(bg="Blue")
+miFrame=Frame()
+#miFrame.pack(side="left", anchor="n")
+#miFrame.pack(fill="both",expand="True")
+miFrame.pack()
+miFrame.config(bg="red")
+miFrame.config(width="650",height="359")
+miFrame.config(bd=35)
+miFrame.config(relief="sunken")
+miFrame.config(cursor="pirate")
+raiz.mainloop()

@@ -1,0 +1,59 @@
+/*.texto{
+    padding: 20px;
+}
+ NO FUNCIONAN EN LINEA */
+/* .texto::first-line {
+    color: blueviolet;
+    font-size: 2em;
+}
+.texto::first-letter {
+    color:rebeccapurple;
+    font-size: 5em;
+} 
+form{
+    margin: 100px auto;
+    display: block;
+    background-color: rebeccapurple;
+    padding: 100px;
+    width: 50%;
+}*/
+/* 
+input{
+    
+    width: 100%;
+    padding: 6px;
+
+}
+
+input::placeholder{
+    color: royalblue;
+    font-size: 1.6em;
+}
+input::selection{
+    background: black;
+    color: whitesmoke;
+}
+p::selection{
+    background: whitesmoke;
+    color:black;
+    
+} */
+form{
+    margin: 100px auto;
+    display: block;
+    background-color: rebeccapurple;
+    padding: 100px 10px;
+    width: 50%;
+    text-align: center;
+}
+b{
+
+}
+b::before{
+    color: cornflowerblue;
+    content: "le di like";
+}
+b::after{
+    color: cornflowerblue;
+    content: "el canal de tu tia";
+}

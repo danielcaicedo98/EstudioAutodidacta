@@ -1,0 +1,70 @@
+/* div {
+    margin: auto;
+    margin-top: 50px;
+    width: 320px;
+    height: 350px;
+    border: 4px solid blue;
+    background: blueviolet;
+     overflow: auto; 
+
+}
+
+img {
+
+    /* width: 100%;
+    height: 100%; 
+    width: 200px;
+    position: relative;
+    outline: 2px solid black;
+    top: 0;
+    left: 0;
+    transition: all 5s;
+}
+
+div:hover > img {
+    width: 200px;
+    position: relative;
+    top: 150px;
+    left: 140px;
+} */
+
+
+/* .contenedor{
+    
+    
+}
+.contenedor div{
+     width: 50%; 
+    float: left;
+    /* display: inline-block; 
+    
+}
+.primario{
+    background: blueviolet;
+    width: 70%;  
+    
+}
+
+.secundario{
+    background: brown;
+    width: 30%;
+} */
+div{
+   
+}
+.container {
+    
+    margin: auto;
+    margin-top: 50px;    
+    border: 4px solid blue;
+    background: blueviolet;    
+    text-align: justify;
+    padding: 10px;   
+
+}
+
+.container img {
+    float: right;
+    width: 300px;
+    padding: 10px;
+}
